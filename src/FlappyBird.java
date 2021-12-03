@@ -1,3 +1,9 @@
+/**This program creates a flappy bird game and utilizes the JFrame ADT.
+ * The player taps the screen if they want the bird to go stay up in the air. The columns
+ * are also moving so the bird can go past them and give the player a point to their score.
+ *
+ */
+
 import javax.swing.*;
 //import javax.swing.Timer;
 import java.awt.*;
